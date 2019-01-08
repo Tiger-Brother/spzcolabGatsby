@@ -1,2 +1,0 @@
-# spzcolabGatsby
-Created with CodeSandbox
